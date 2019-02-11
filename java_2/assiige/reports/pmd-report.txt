@@ -1,0 +1,50 @@
+src/assiige/Freinds.java:6:	Each class should declare at least one constructor
+src/assiige/Freinds.java:6:	Header comments are required
+src/assiige/Freinds.java:7:	Avoid variables with short names like n
+src/assiige/Freinds.java:7:	Field comments are required
+src/assiige/Freinds.java:7:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/assiige/Freinds.java:7:	To avoid mistakes add a comment at the beginning of the n field if you want a default access modifier
+src/assiige/Freinds.java:7:	Use explicit scoping instead of the default package private level
+src/assiige/Freinds.java:8:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/assiige/Freinds.java:8:	Field comments are required
+src/assiige/Freinds.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/assiige/Freinds.java:8:	To avoid mistakes add a comment at the beginning of the fname field if you want a default access modifier
+src/assiige/Freinds.java:8:	Use explicit scoping instead of the default package private level
+src/assiige/Freinds.java:9:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/assiige/Freinds.java:9:	Field comments are required
+src/assiige/Freinds.java:9:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/assiige/Freinds.java:9:	To avoid mistakes add a comment at the beginning of the fmobi1 field if you want a default access modifier
+src/assiige/Freinds.java:9:	Use explicit scoping instead of the default package private level
+src/assiige/Freinds.java:10:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/assiige/Freinds.java:10:	Field comments are required
+src/assiige/Freinds.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/assiige/Freinds.java:10:	To avoid mistakes add a comment at the beginning of the fmobi2 field if you want a default access modifier
+src/assiige/Freinds.java:10:	Use explicit scoping instead of the default package private level
+src/assiige/Freinds.java:11:	To avoid mistakes add a comment at the beginning of the addfname method if you want a default access modifier
+src/assiige/Freinds.java:11:	Use explicit scoping instead of the default package private level
+src/assiige/Freinds.java:12:	Avoid variables with short names like kb
+src/assiige/Freinds.java:12:	Local variable 'kb' could be declared final
+src/assiige/Freinds.java:13:	System.out.println is used
+src/assiige/Freinds.java:15:	System.out.println is used
+src/assiige/Freinds.java:20:	To avoid mistakes add a comment at the beginning of the addfcont method if you want a default access modifier
+src/assiige/Freinds.java:20:	Use explicit scoping instead of the default package private level
+src/assiige/Freinds.java:21:	Avoid variables with short names like kb
+src/assiige/Freinds.java:21:	Found 'DU'-anomaly for variable 'kb' (lines '21'-'28').
+src/assiige/Freinds.java:21:	Local variable 'kb' could be declared final
+src/assiige/Freinds.java:23:	System.out.println is used
+src/assiige/Freinds.java:25:	System.out.println is used
+src/assiige/Freinds.java:29:	Parameter 'name' is not assigned and could be declared final
+src/assiige/Freinds.java:29:	Public method and constructor comments are required
+src/assiige/Freinds.java:30:	Avoid variables with short names like i
+src/assiige/Freinds.java:30:	Local variable 'i' could be declared final
+src/assiige/Freinds.java:32:	System.out.println is used
+src/assiige/Freinds.java:35:	System.out.println is used
+src/assiige/TestArr.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/assiige/TestArr.java:5:	Header comments are required
+src/assiige/TestArr.java:6:	Parameter 'args' is not assigned and could be declared final
+src/assiige/TestArr.java:6:	Public method and constructor comments are required
+src/assiige/TestArr.java:8:	Avoid variables with short names like f
+src/assiige/TestArr.java:8:	Local variable 'f' could be declared final
+src/assiige/TestArr.java:11:	System.out.println is used
+src/assiige/TestArr.java:12:	Avoid variables with short names like kb
+src/assiige/TestArr.java:12:	Local variable 'kb' could be declared final
